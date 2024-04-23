@@ -115,13 +115,13 @@ print("SHALINI K 212222240095")
 
 ### True Stock Price, Predicted Stock Price vs time
 
-![image](https://github.com/shalinikannan23/rnn-stock-price-prediction/assets/118656529/6af42bc5-0730-4ea0-b77c-805d583ad872)
+<img height=10% width=30% src ="https://github.com/shalinikannan23/rnn-stock-price-prediction/assets/118656529/6af42bc5-0730-4ea0-b77c-805d583ad872">
 
 
 
 ### Mean Square Error
 
-![image](https://github.com/shalinikannan23/rnn-stock-price-prediction/assets/118656529/c78237b2-2ec9-4411-8360-0a36836a5e2a)
+<img height=10% width=30% src ="https://github.com/shalinikannan23/rnn-stock-price-prediction/assets/118656529/c78237b2-2ec9-4411-8360-0a36836a5e2a">
 
 
 ## RESULT
